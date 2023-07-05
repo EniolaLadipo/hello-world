@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial
 It now includes steps for GitHub
 
 I am a new line, look at me!
+
+I am a new, NEW line, ready to be pushed to GitHub
